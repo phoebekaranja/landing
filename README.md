@@ -5,13 +5,13 @@
 ## Description
 
 ## Setup/Installation Requirements
-* git clone https://github.com/phoebekaranja/landing
+* git clone https://phoebekaranja.github.io/landing/
 Cd landing
 atom .
 Open the my-first-webpage.html. using the Web browser.
 
 ## link to live site
-https://github.com/phoebekaranja/landing
+https://phoebekaranja.github.io/landing/
 
 ### License
 License
